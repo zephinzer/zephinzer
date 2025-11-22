@@ -1,9 +1,15 @@
-# HELLO YOU
+# HELLO THERE
 
-I like to write code, and it's probably my life's calling to participate in creating software.
+I like to write code, and it's probably my life's calling to participate in the creation of software.
 
-⚙️ Platform Engineering
+Things I enjoy professionally:
+- 💕 Writing code
+- ⚙️ Providing infrastructure
+- ✨ Coaching engineers
 
-💕 Software Engineering
+Things I enjoy personally:
+- 🧗 Bouldering
+- 🎸 Electric guitar
+- 🗾 Japanese
 
-✨ Coaching
+Website's at https://hi.joeir.net, don't be a stranger, anon!

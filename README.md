@@ -5,7 +5,7 @@ I like to use technology to help people sleep better at night.
 Things I enjoy professionally:
 - 💕 Writing code
 - ⚒️ Architecting software and systems
-- ⚙️ Providing infrastructure
+- ⚙️ Automating shiz
 - ✨ Coaching engineers
 
 Things I enjoy personally:

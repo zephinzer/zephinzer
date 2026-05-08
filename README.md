@@ -12,4 +12,4 @@ Currently working on my own agency, Aijutsu, that aims to help founders, SME own
 
 We deliver with a coaching-informed method of inquiry into business needs and goals, and then get hands-on by leveraging bleeding edge technologies to get stuff done, eventually achieving a transformation that will outlast ourselves. We also do one-off projects and deliverables like diagnostic sprints, infrastructure review/setup, AI agent workflow setups, compliance readiness checks, compliance automation implementation, custom web applications, and websites if you'd like a tester to see what we're like.
 
-Website's at https://aijutsu.dev, don't be a stranger, anon!
+First consultation is free; website's at https://aijutsu.dev, don't be a stranger, anon!
